@@ -146,32 +146,31 @@ Between married males and females, who is having more bad credit?
 Data Cleaning --> EDA --> Data Profiling --> Hypotheis Testing --> Machine Learning Models --> SQL queries on clean Data
 
 # Deliverables
-Data Cleaning:
-
+1. Data Cleaning:
 Cleaned dataset with standardized and validated entries.
 Documentation detailing the data cleaning process.
-EDA (Exploratory Data Analysis):
 
+2. EDA (Exploratory Data Analysis):
 Visualizations illustrating key data distributions and relationships.
 Insights and findings report based on EDA.
-Data Profiling:
 
+3. Data Profiling:
 Profiling report outlining key statistics and characteristics of the dataset.
 Identification of potential data quality issues.
-Hypothesis Testing:
 
+4.Hypothesis Testing:
 Documented hypotheses, assumptions, and testing methodologies.
 Statistical test results and their interpretations.
 Machine Learning Models:
 
 Trained machine learning models (logistic regression, decision trees, random forests, SVM).
 Model evaluation metrics (precision, recall, F1-score) and comparison.
-SQL Queries on Clean Data:
 
+5.SQL Queries on Clean Data:
 Executable SQL queries addressing specific business questions.
 Results of SQL queries with insights derived from the analysis.
-Documentation:
 
+6.Documentation:
 Comprehensive project documentation outlining the entire process.
 Readme file guiding users through the project structure and execution.
 GitHub Repository:
